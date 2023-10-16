@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathmesh Singh, a Software Developer.
 - 👀 Choosed consistency over Intensity.
-- 🌱 Currently working on MERN stack and AWS services.
+- 🌱 Currently working as C++/C# Developer with Autodesk as Contract SDE+TD.
 - 📫 Can reach me using my mail: prathmeshsingh85@gmail.com
 - Take a technology walk to my YouTube Channel ;)) [https://www.youtube.com/@tech_sido](https://www.youtube.com/@tech_sido)
 
