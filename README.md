@@ -62,12 +62,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/techsido"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techsido" /></a></p><br><br>
+<p>
+  <h3 align="left">You can always</h3>
+  <a href="https://www.buymeacoffee.com/techsido"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techsido" 
+  /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshtech&show_icons=true&locale=en&layout=compact" alt="prathmeshtech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshtech&show_icons=true&locale=en" alt="prathmeshtech" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshtech&" alt="prathmeshtech" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshtech&show_icons=true&locale=en&layout=compact" alt="prathmeshtech" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshtech&show_icons=true&locale=en" alt="prathmeshtech" />
+</p>
 
