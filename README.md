@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prathmeshsingh85@gmail.com**
 -  👀 Choosed consistency over Intensity.
-- 🌱 Currently working as C++/C# Developer with Autodesk as Contract SDE+TD.
+- 🌱 Currently working as C++/C# Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
